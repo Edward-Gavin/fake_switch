@@ -1,0 +1,9 @@
+过程：
+
+1. 安装 Erlang/OTP 21.1
+2. 安装rabbitMQ server
+3. Python 2.7 安装pika
+4. rabbitMQ 简介 https://www.cnblogs.com/dwlsxj/p/RabbitMQ.html
+
+
+1.
